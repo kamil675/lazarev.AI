@@ -22,6 +22,11 @@ nav{
 nav h1{
     font-size: 1.8vw;
 }
+nav h1 img{
+    height: 8vh;
+    width: 6vw;
+    border-radius: 50%;
+}
 .nav-part2{
     display: flex;
     gap: 2vw;
